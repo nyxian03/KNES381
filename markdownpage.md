@@ -1,3 +1,3 @@
 <h1 align="center">
-// A centered Title
+A Centered Title
 <h1/>
