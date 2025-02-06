@@ -8,6 +8,8 @@
 look at this <b>awesome</b> skull I drew with all this text to the left</p>
   
   <a href="https://github.com/nyxian03/KNES381/blob/main/images/Skullimage.jpg"> here's it as a link</a>
+
+  and here's another <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran"> ^v^
   
   V&#775;O<sub>2max</sub> writen <i>flawlessly</i> (and I used the unicode method so I'm cool)
   
