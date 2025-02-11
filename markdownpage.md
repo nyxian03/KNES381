@@ -13,7 +13,11 @@ look at this <b>awesome</b> skull I drew with all this text to the left</p>
   
   V&#775;O<sub>2max</sub> writen <i>flawlessly</i> (and I used the unicode method so I'm cool)
   
-  and here's some text that is $${\color{red}coloured}$$
+  and here's some text that is $${\color{green}coloured}$$
+
+  ```diff
++hello
+```
 
   > this text is grey, which is yet another colour of text, but not in the way you actually asked for it, but I also got the text to be red so it doesn't matter actually
 
